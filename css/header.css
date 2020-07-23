@@ -1,0 +1,75 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("/fonts/Montserrat/Montserrat-Regular.ttf");
+}
+header {
+    height: 116px;
+    display: flex;
+}
+a {
+    font-family: Montserrat;
+    text-decoration: none;
+    color: #211536;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+p {
+    font-family: Montserrat;
+}
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.purple_btn {
+    width: 285px;
+    height: 58px;
+    background-color: #9B63F8;
+    border-radius: 4px;
+}
+.white_btn {
+    width: 285px;
+    height: 58px;
+    border: 1px solid #9B63F8;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.btn > * {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+.btn__text_white {
+    color: #FFFFFF;
+}
+.btn__text_black {
+    color: #211536;
+}
+.nav_account__acc_info.acc_info {
+    border: 1px solid #9B63F8;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 175px;
+    height: 58px;
+}
+.nav_bar__items, .footer_blocks__items {
+    justify-content: space-between;
+}
+.nav_account__notification {
+    margin-right: 20px;
+}
+.nav_menu__item {
+    margin-right: 40px;
+}
+.nav_account__item {
+    margin-left: 20px;
+}

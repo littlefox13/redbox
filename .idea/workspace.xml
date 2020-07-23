@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d9ce091-7c87-4c50-a48d-b73e99bbefdc" name="Default Changelist" comment="" />
+    <list default="true" id="3d9ce091-7c87-4c50-a48d-b73e99bbefdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +16,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f2cbzsDi3a6tGZibwpI6JtuUI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
   <component name="SvnConfiguration">
@@ -32,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595419703833</updated>
-      <workItem from="1595419705292" duration="1660000" />
+      <workItem from="1595419705292" duration="36050000" />
     </task>
     <servers />
   </component>
@@ -48,5 +57,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2563" y="132" width="623" height="807" key="#PHP/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595419848598" />
+    <state x="2556" y="275" width="647" height="528" key="find.popup" timestamp="1595444299227">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2556" y="275" width="647" height="528" key="find.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595444299227" />
   </component>
 </project>
