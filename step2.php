@@ -91,24 +91,7 @@
                 <img src="/img/left_arrow.svg">
             </div>
             <div class="gallery_block__img_container">
-                <div class="img_block">
-                    <img src="/img/tmp/1479296990190313891.jpg">
-                </div>
-                <div class="img_block">
-                    <img src="/img/tmp/_QnDmL47vZM.jpg">
-                </div>
-                <div class="img_block">
-                    <img src="/img/tmp/lisa_fantasticheskij_hishchnik_132021_1920x1080.jpg">
-                </div>
-                <div class="img_block">
-                    <img src="/img/tmp/1479296990190313891.jpg">
-                </div>
-                <div class="img_block">
-                    <img src="/img/tmp/_QnDmL47vZM.jpg">
-                </div>
-                <div class="img_block">
-                    <img src="/img/tmp/lisa_fantasticheskij_hishchnik_132021_1920x1080.jpg">
-                </div>
+
             </div>
         </div>
     </div>
