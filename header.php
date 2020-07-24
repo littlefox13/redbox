@@ -1,10 +1,9 @@
 <header>
-    <link href="/css/header.css" rel="stylesheet">
     <div class="container flex-center nav_bar__items">
         <div class="nav_bar__item nav_menu flex-center">
-            <a class="nav_menu__item" href="#/about">Мероприятия</a>
-            <a class="nav_menu__item" href="#/about">О сервисе</a>
-            <a class="nav_menu__item" href="#/rating">Рейтинг</a>
+            <a class="nav_menu__item" href="#">Мероприятия</a>
+            <a class="nav_menu__item" href="#">О сервисе</a>
+            <a class="nav_menu__item" href="#">Рейтинг</a>
         </div>
 
         <div class="nav_bar__item nav_account flex-center">

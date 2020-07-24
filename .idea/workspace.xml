@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9ce091-7c87-4c50-a48d-b73e99bbefdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step1.php" beforeDir="false" afterPath="$PROJECT_DIR$/step1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step2.php" beforeDir="false" afterPath="$PROJECT_DIR$/step2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595419703833</updated>
-      <workItem from="1595419705292" duration="36050000" />
+      <workItem from="1595419705292" duration="36791000" />
+      <workItem from="1595538995658" duration="28343000" />
     </task>
     <servers />
   </component>
@@ -57,9 +63,17 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2563" y="132" width="623" height="807" key="#PHP/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595419848598" />
+    <state x="2613" y="289" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595567456580">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="289" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595567456580" />
     <state x="2556" y="275" width="647" height="528" key="find.popup" timestamp="1595444299227">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2556" y="275" width="647" height="528" key="find.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595444299227" />
+    <state x="2544" y="248" width="672" height="677" key="run.anything.popup" timestamp="1595565528752">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="248" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1595565528752" />
   </component>
 </project>

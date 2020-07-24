@@ -4,7 +4,7 @@
         <div class="create_event_block__block_inputs">
             <div class="block_input">
                 <p class="block_input__title">Организатор</p>
-                <input class="block_input__input">
+                <input class="block_input__input input__organizer_name">
             </div>
         </div>
     </div>
@@ -21,7 +21,7 @@
             </div>
             <div class="block_input">
                 <p class="block_input__title">Город организатора</p>
-                <input class="block_input__input">
+                <input class="block_input__input block_input__city">
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@
         <div class="create_event_block__block_inputs">
             <div class="block_input">
                 <p class="block_input__title">Название</p>
-                <input class="block_input__input">
+                <input class="block_input__input block_input__event_name">
             </div>
             <div class="block_input">
                 <p class="block_input__title">Фотографии</p>
@@ -79,6 +79,9 @@
                 <textarea class="block_input__input block_input__full_description"></textarea>
             </div>
             <div class="block_input">
+                <div class="added_data_container">
+
+                </div>
                 <div class="add_data_container">
                     <div class="add_data_block add_data__start_data_container">
                         <div class="add_data__data_block">
@@ -106,7 +109,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="add_data_btn white_btn btn">
+                <div class="add_data_btn white_btn btn active">
                     <p class="btn__text_black">+ Добавить дату</p>
                 </div>
 
@@ -129,11 +132,11 @@
             <div class="block_inputs__column-2 block_inputs__columns">
                 <div class="block_input">
                     <p class="block_input__title">Адрес мероприятия</p>
-                    <input class="block_input__input">
+                    <input class="block_input__input block_input__address">
                 </div>
                 <div class="block_input">
                     <p class="block_input__title">Комментарий к адресу</p>
-                    <input class="block_input__input">
+                    <input class="block_input__input block_input__address_comment">
                 </div>
             </div>
         </div>
